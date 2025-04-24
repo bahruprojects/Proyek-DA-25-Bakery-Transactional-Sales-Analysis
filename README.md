@@ -1,4 +1,4 @@
-# Proyek-DA-25-Bakery-Transactional-Sales-Analysis
+# Proyek-DA-25-Bakery-Transactional-Sales-Analysis.
 ### Dashboard: 
 [Link](https://lookerstudio.google.com/u/0/reporting/094027f3-7f78-42c3-8304-680f51f84e24).
 ### Tools:
